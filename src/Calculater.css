@@ -1,0 +1,29 @@
+Calculater{
+    height: 500px;
+}
+input {
+   height: 50px;
+   width: 250px;
+   color: black;
+}
+.x{
+    height: 50px;
+    width: 60px;
+    color: black;
+    background-color: lightblue;
+}
+#ac{
+  height: 50px;
+  width: 60px;  
+  background-color: lightgreen;
+}
+#ce{
+  height: 50px;
+  width: 60px;  
+  background-color: lightgreen;
+}
+#r{
+  height: 50px;
+  width: 60px;  
+  background-color:gold;
+}
